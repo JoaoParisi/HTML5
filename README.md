@@ -21,3 +21,7 @@ Sera um pouco difícil conseguir um, a versão para consumidores foi **descontin
 1. Tegs importantes utilizadas em **HTML5**
 2. Organização do código (deixa ele muito mais fácil de se compreender)
 3. Estilos em CSS3
+
+# Fonte
+Gustavo Guanabara
+Curso em Video
