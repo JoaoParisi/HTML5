@@ -5,7 +5,7 @@ Este é um projeto que ainda esta em desenvolvimento. Estou criando com o suport
 
 
 ## Sobre
-É uma página da internet que tem todas as informações para quem quiser consumir o produto Google Glass.
+Página da internet onde se encontra todas as informações para quem quiser consumir o produto Google Glass.
 
 Sera um pouco difícil conseguir um, a versão para consumidores foi **descontinuada** em 2015. Depois, o Google Glass Enterprise Edition teve suas vendas encerradas em 15 de março de 2023, com suporte estendido até 15 de setembro de 2023.
 
